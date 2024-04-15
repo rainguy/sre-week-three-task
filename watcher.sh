@@ -2,7 +2,7 @@
 
 # Define variables
 NAMESPACE="sre"
-DEPLOYMENT="swype"
+DEPLOYMENT="swype-app"
 MAX_RESTARTS=3
 
 # Start an infinite loop
